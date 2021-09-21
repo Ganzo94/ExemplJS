@@ -1,1 +1,2 @@
 # ExemplJS
+JS works
